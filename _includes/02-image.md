@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![luca santarelli porge la mano](https://lucasantarelli.it/wp-content/uploads/2020/09/web-marketing-ancona-luca-santarelli.jpg)
